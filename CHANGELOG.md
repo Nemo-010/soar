@@ -1,4 +1,14 @@
 
+## [0.14.3](https://github.com/pkgforge/soar/compare/v0.14.2...v0.14.3) - 2026-11-20
+
+### 🚜 Refactor
+
+- *(core)* Replace chrono with jiff - ([38e9314](https://github.com/pkgforge/soar/commit/38e9314a660301848833bcfd9283249b1b39d031))
+
+### ⚙️ Miscellaneous Tasks
+
+- Update Cargo.toml dependencies - ([0000000](https://github.com/pkgforge/soar/commit/0000000))
+
 ## [0.14.2](https://github.com/pkgforge/soar/compare/v0.14.1...v0.14.2) - 2026-11-15
 
 ### ⛰️  Features
